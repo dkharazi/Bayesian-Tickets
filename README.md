@@ -1,6 +1,6 @@
 ## Overview
 
-An experiment was conducted to record ticket prices across a long period of time.
+An experiment was conducted to record ticket prices across a long period of time. The goal of the analysis is to estimate ticket prices on a given day.
 
 
 ## Variable Descriptions
